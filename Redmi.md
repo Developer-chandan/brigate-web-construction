@@ -2,7 +2,7 @@
   <content><![CDATA[
 # ${1:Project Name}
 
-Project Name: Brigade Website Design
+# Project Name: Brigade Website Design
 
 ## Languages
 HTML5, CSS3, SCSS, BOOTSTRAP, JS, jQuery 
