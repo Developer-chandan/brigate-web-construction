@@ -795,7 +795,7 @@ li.nav-item {
       width: 12px !important;
       height: 12px !important; }
   #work-with-team .work-info .service-list {
-    width: 420px !important; } }
+    width: 100% !important; } }
 
 @media (max-width: 576px) {
   #slider .slider-work-button {
